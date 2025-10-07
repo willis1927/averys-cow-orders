@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/averys-cow-orders/static/css/main.f855e6bc.css",
-    "main.js": "/averys-cow-orders/static/js/main.1b03b019.js",
+    "main.js": "/averys-cow-orders/static/js/main.dc2acb70.js",
     "static/js/453.d3c5e940.chunk.js": "/averys-cow-orders/static/js/453.d3c5e940.chunk.js",
     "index.html": "/averys-cow-orders/index.html",
     "static/media/WineList.csv": "/averys-cow-orders/static/media/WineList.50ab6c40f51bcd4c17e1.csv",
     "main.f855e6bc.css.map": "/averys-cow-orders/static/css/main.f855e6bc.css.map",
-    "main.1b03b019.js.map": "/averys-cow-orders/static/js/main.1b03b019.js.map",
+    "main.dc2acb70.js.map": "/averys-cow-orders/static/js/main.dc2acb70.js.map",
     "453.d3c5e940.chunk.js.map": "/averys-cow-orders/static/js/453.d3c5e940.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1b03b019.js"
+    "static/js/main.dc2acb70.js"
   ]
 }
