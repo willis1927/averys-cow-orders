@@ -1,4 +1,86 @@
-Tasting Number,SKU ID,Description,Region ,Price Per Bottle
-1,123456,Conde de Cron,Rioja,8.99
-2,214564,Portillo,Navarra,9.99
-3,542654,Averys Cava,Penedes,11.99
+Table,Number,SKU,Wine,Vintage,1Price,6Price,Saving
+0,0,,Averys Special Cuvee,NV,£32.00,£27.99,£4.01
+1,1,3891620,Harrow & Hope English Sparkling Brut Reserve No 9,2020,£34.00,£32.00,£2.00
+1,2,4076120,Harrow & Hope English Sparkling Blanc de Blancs,2020,£40.00,£38.00,£2.00
+1,3,3749119,Harrow & Hope English Sparkling Blanc de Noirs,2019,£42.00,£40.00,£2.00
+1,4,2346121,Harrow & Hope English Sparkling Brut Rose,2021,£37.00,£35.00,£2.00
+1,5,1621518,Pol Roger Brut Reserve Champagne,NV,£54.99,£54.99,£0.00
+1,6,0931318,Pol Roger Vintage Brut,NV,£95.00,£54.99,£40.01
+1,7,,Pol Roger Blanc de Blancs,NV,£90.00,£54.99,£35.01
+1,8,1092018,Pol Roger Cuvee Sir Winston Churchill ,2018,£210.00,£54.99,£155.01
+2,9,2122515,Chateau Thieuley Cuvee Francis Courselle,2015,£15.99,,£15.99
+2,10,4517122,Cami Salie,2022,£17.99,,£17.99
+2,11,4079122,Les Deux Vallees Savennieres,2022,£16.99,,£16.99
+2,13,1409624,La Voute,2024,£17.99,,£17.99
+2,14,0987422,Averys Fine White Burgundy,2022,£23.00,,£23.00
+2,15,2024723,Domaine Jean Chartron Rully Montmorin Blanc 2023,2023,£28.00,,£28.00
+2,15,4079719,Domaines Schlumberger S de Schlumberger,2019,£15.99,,£15.99
+3,16,4539319,Chasm de Cabrespine Minervois,2019,£19.99,,£19.99
+3,17,1061022,Dominique Piron Cote du Py Morgon,2022,£25.00,,£25.00
+3,18,2255623,Domaine Michel Thomas Sancerre Rouge Pinot Noir,2023,£22.00,,£22.00
+3,19,0987522,Averys Fine Red Burgundy,2022,£23.00,,£23.00
+3,20,0934914,Château Gigault Cuvée Viva 2014,2014,£19.99,,£19.99
+3,21,0264920,Jean-Pierre Moueix Bordeaux,2020,£16.99,,£16.99
+3,22,,Chateau Tronquoy Lalande,,,,£0.00
+4,23,3960323,Pas Vu Pas Pris Organic by Jeff Carrel,2023,£16.99,,£16.99
+4,24,0908823,Morillon Blanc Jeff Carrel Chardonnay,2023,£16.99,,£16.99
+4,25,0910625,Villa des Anges Rose,2025,£12.99,,£12.99
+4,26,2069424,Pinot Noir 'En Coteaux' by Jeff Carrel 2024,2024,,,£0.00
+4,27,3475522,La Tire Fitou Organic,2022,£14.99,,£14.99
+4,28,4429922,Les Darons by Jeff Carrel,2022,£14.99,,£14.99
+5,29,4548523,Chateau Ksara Merwah,2023,£22.00,,£22.00
+5,30,4548621,Chateau Ksara Le Prieure Rouge,2021,£20.00,,£20.00
+5,31,4570419,Chateau Ksara Rouge,2019,£30.00,,£30.00
+5,32,1007723,Mourchon La Source Cotes du Rhone blanc,2023,£15.99,,£15.99
+5,33,1030123, Mourchon Seguret Tradition Cotes du Rhone Villages,2023,£18.99,,£18.99
+5,34,0938123,Mourchon Seguret Grand Reserve Cotes du Rhone Villages,2023,£22.00,,£22.00
+6,35,4574724,Shaw and Smith Sauvignon Blanc,2024,£21.00,,£21.00
+6,36,1107223,Pieropan Soave Classico Calvarino Organic,2023,£27.00,,£27.00
+6,37,2962521,Greywacke Marlborough Chardonnay,2021,£33.00,,£33.00
+6,38,3084324,Crystallum The Agnes Chardonnay,2024,£30.00,,£30.00
+6,39,3808522,Greywacke Marlborough Pinot Noir,2022,£35.00,,£35.00
+6,40,3084124,Crystallum Peter Max Pinot Noir,2024,£34.00,,£34.00
+6,41,4574821,Shaw and Smith Shiraz,2021,£35.00,,£35.00
+6,42,2447922,Allegrini Palazzo della Torre,2022,£21.00,,£21.00
+7,43,4438124,La Multa Albilla Sobre Lias,2024,£14.99,,£14.99
+7,44,4206424,Passionada Alvarinho 2024,2024,£13.99,,£13.99
+7,45,4263722,Muga El Anden de la Estacion Rioja Crianza,2022,£18.00,,£18.00
+7,48,4513223,Quinta do Casal Branco Cuvee Comte Louis de Narbonne-Lara,2023,£13.99,,£13.99
+7,,4544720,Selección Especial Numerada 70 Toro Reserva,2020,£25.00,,£25.00
+7,,4548921,Venta del Puerto Nº12 Selección Especial,2021,£19.99,,£19.99
+8,49,4206224,Il Poeta Chardonnay,2024,£14.99,,£14.99
+8,50,0322024,Vesuvium Greco di Tufo,2024,£13.99,,£13.99
+8,51,2379520,Caroso Montepulciano Riserva,2020,£14.99,,£14.99
+8,52,2114720,Il Poeta Barolo,2020,£22.00,,£22.00
+8,53,0307724,La Fonte d'Oro Negroamaro Primitivo,2024,£15.99,,£15.99
+8,54,4540721,Bennati Amarone della Valpolicella,2021,£25.00,,£25.00
+9,55,4298322,Averys Fine Organic Riesling Pfalz,2022,£14.99,,£14.99
+9,56,1783623,Dönnhoff Tonschiefer Dry Slate Riesling 2023,2023,£26.00,,£26.00
+9,57,1658523,Max Ferd Richter Mulheimer Sonnenlay Riesling Zeppelin,2023,£15.99,,£15.99
+9,58,4549924,Lesehof Grüner Veltliner,2024,£12.99,,£12.99
+9,59,4141225,Excelsior Heritage Reserve Viognier,2025,£14.99,,£14.99
+9,60,0966423,Villa Wolf Pinot Noir Pfalz,2023,£15.99,,£15.99
+9,61,4512819,Neil Ellis Stellenbosch Cabernet Sauvignon,2019,£26.00,,£26.00
+9,62,2071620,Bellemore Family Selection Pinotage Stellenbosch,2020,£17.99,,£17.99
+10,63,4361924,RedHeads Riesling,2024,£14.99,,£14.99
+10,64,4362024,RedHeads Semillon,2024,£15.99,,£15.99
+10,65,4043823,RedHeads Harmonie Rox Chardonnay,2023,£11.99,,£11.99
+10,66,2802223,RedHeads Wilson Gunn Bellum Cabernet Sauvignon Shiraz,2023,£18.99,,£18.99
+10,67,3244522,RedHeads Night Of The Living Red,2022,£24.00,,£24.00
+10,68,0184220,Esule by RedHeads,2020,£30.00,,£30.00
+10,,0193622,RedHeads Barrel Monkeys Shiraz,2022,,,£0.00
+11,69,4169622,William Knuttel Sonoma Valley Chardonnay,2022,£19.99,,£19.99
+11,71,2531523,Purple Owl Pinot Noir ,2023,£13.99,,£13.99
+11,73,3993223,Black Saint Peter Old Vine Zinfandel,2023,£18.99,,£18.99
+11,74,2679321,Pulenta XI Gran Cabernet Franc,2021,£45.00,,£45.00
+11,,1458423,Bodegas Caro Aruma Malbec,2023,£17.99,,£17.99
+12,78,1802524,Casa Silva Seleccion Especial Sauvignon Blanc,2024,£13.99,,£13.99
+12,80,1672023,Casa Silva Cool Coast Pinot Noir,2023,£19.99,,£19.99
+12,81,4135224,Casa Silva Seleccion Especial Cabernet Sauvignon Carmenere,2024,£14.99,,£14.99
+12,82,0949023,Casa Silva Carmenere Reserva Cuvee Colchagua,2023,£14.99,,£14.99
+12,,0908924,Casa Silva Seleccion Especial Chardonnay Semillon,2024,£13.99,,£13.99
+13,83,1949515,Andresen 10 YR Old White Port 50cl,2015,£18.99,,£18.99
+13,84,4194519,L'Epiphanie de Sauternes half bottle,2019,£19.99,,£19.99
+13,85,4589718,Dr Loosen Riesling Beerenauslese (quarter bottle in gift tub,2018,£15.00,,£15.00
+13,86,4403623,Averys 10-Year-Old Tawny Port (50cl),2023,£18.99,,£18.99
+13,87,4580818,Baronesa de Vilar LBV (Hand Painted Bottle),2018,£19.99,,£19.99
